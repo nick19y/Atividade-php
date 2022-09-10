@@ -1,4 +1,4 @@
-# atividade-php
+# Atividade-php
 Uma atividade em PHP que desenvolvi pela Etec Sales Gomes
 
 
